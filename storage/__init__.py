@@ -1,0 +1,1 @@
+"""SQLite-backed document registry for the GRC Compliance Assistant."""
